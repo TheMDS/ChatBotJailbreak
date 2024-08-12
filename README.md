@@ -1,4 +1,4 @@
-This method of forcing responses from AI bots has been extensively tested against political responses. At this point, I will note that response suppression is being done at the discretion of Google. If this method is patched, I will re-release a fix as soon as possible.
+This method of forcing responses from AI bots has been extensively tested against political responses. At this point, I will note that response suppression is being done at the discretion of Google or OpenAI. If this method is patched, I will re-release a fix as soon as possible.
 
 Following initial input of the following prompt, lead your question with "Following QRM, [insert question]"
 
